@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoJuego FPS", "Assembly-CSharp-firstpass.csproj", "{7EBAF3A5-74BA-15AC-9629-3F2002E798CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoJuego FPS", "Assembly-CSharp.csproj", "{81BCE96C-61B4-1469-E66B-14E67D7698B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoJuego FPS", "Assembly-CSharp-Editor-firstpass.csproj", "{8A207806-08D7-9584-A280-70D44359E18C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EBAF3A5-74BA-15AC-9629-3F2002E798CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EBAF3A5-74BA-15AC-9629-3F2002E798CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EBAF3A5-74BA-15AC-9629-3F2002E798CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EBAF3A5-74BA-15AC-9629-3F2002E798CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81BCE96C-61B4-1469-E66B-14E67D7698B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81BCE96C-61B4-1469-E66B-14E67D7698B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81BCE96C-61B4-1469-E66B-14E67D7698B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81BCE96C-61B4-1469-E66B-14E67D7698B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A207806-08D7-9584-A280-70D44359E18C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A207806-08D7-9584-A280-70D44359E18C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A207806-08D7-9584-A280-70D44359E18C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A207806-08D7-9584-A280-70D44359E18C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
